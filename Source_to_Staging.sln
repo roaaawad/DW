@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Source_to_Staging", "Source_to_Staging\Source_to_Staging.dtproj", "{C0383697-CF60-430A-9515-39CA0DFCD3B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0383697-CF60-430A-9515-39CA0DFCD3B9}.Development|Default.ActiveCfg = Development
+		{C0383697-CF60-430A-9515-39CA0DFCD3B9}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A842957-D2AD-47A4-8305-08F38B770720}
+	EndGlobalSection
+EndGlobal
